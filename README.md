@@ -1,4 +1,4 @@
-# Generative and Agentic Artificial Intelligence
+# Principles and Practice of Agentic Artificial Intelligence
 
 ## Principles and Practice of Virtual Assistant AI
 
@@ -29,8 +29,6 @@ In the creation of these virtual assistants, students will form groups of around
 
 This course is designed to embody real-world AI product development. You are not completing assignments for a grade, you are building something real, working in teams, managing ambiguity, making tradeoffs, and launching publicly. The goal is for every student to finish the semester having built, shipped, and marketed a real AI product.
 
-This course and its associated funding for project launches are made possible through funding from the National Science Foundation and University of Michigan, providing students with a unique opportunity to build, ship, and market real AI products at scale.
-
 This course is structured as a hands-on, project-based experience centered on building and launching a real AI product using a cutting-edge open-source AI ecosystem.
 
 * Students will be organized into project teams of 4–5 members.  
@@ -39,7 +37,7 @@ This course is structured as a hands-on, project-based experience centered on bu
   * Supersets and integrates modern industry tooling such as React, JavaScript/TypeScript, Python, FastAPI, and Kubernetes (k8s)  
   * Enables rapid development of agentic AI systems using advanced capabilities such as ByLLM and related AI-native abstractions  
 * Teams will have full ownership of their project, including product vision, technical design, and execution decisions.   
-* All projects will be publicly launched toward the end of the semester. Each team will design and execute a digital marketing campaign for their product.
+* All projects will be publicly launched toward the end of the semester. 
 
 # Schedule by Week *(subject to slight changes)*
 
@@ -67,7 +65,7 @@ Classes begin August 31 and end December 11. There are no classes on September 7
 
 # Notes
 
-* **MVP Pitch Week (Week 10, November 2–6)** — This is where launch grants are awarded, ranging from hundreds to thousands of dollars based on the quality and potential of your product. Come prepared to impress. This funding is thanks due to the NSF POSE program.
+* **MVP Pitch Week (Week 10, November 2–6)** — Come prepared with a launch-ready MVP that the rest of the class can use. Be ready to demo your product, let your classmates try it, and gather feedback before Launch Week.
 
 * **Launch Week (Week 12, November 16–20)** — Go live. This is when you push the button on your digital marketing campaign and release your product to real users.
 
@@ -104,8 +102,9 @@ This is a very ‘do based’ course as opposed to ‘study based’. A signific
 
 **Individual Components (30%)** 
 
-- 10 Weekly individual reflection submissions: 3% each  
+- 10 Weekly individual reflection submissions: 2.5% each  
   * All, half, or nothing based clarity, technical substance, honesty, and demonstrated engagement
+- In-class participation through random pop-up activities: 5%
 
 **Additional Extra Credit Opportunity**: Up to 20% Extra Credit
 
