@@ -12,7 +12,7 @@ The science and art of creating real modern generative AI systems and products s
 
 In the creation of these virtual assistants, students will form groups of around \~4-5 students to select a use case, design the agentic workflows, train AI capabilities if needed, implement logic, and execute the end to end build out and integration into an existing public API. In class, students will learn about the broad landscape of NLP and Conversational AI from it’s fundamental principles. Students will also learn state of the art techniques for various aspects of modeling language in deep learning, leveraging  transfer learning to solve NLP problem, and gain very important experience understanding and interpreting research papers as the state of the art evolves. As an MDE, the grading of the course is predominantly project-based and students will be presenting the evolution of their project in course. Also students will gain valuable experience presenting technical ideas and evaluation through 2 presentations per group.
 
-**Instructor**: Jason Mars ([profmars@umich.edu](mailto:profmars@umich.edu) / [http://www.jasonmars.org](http://www.jasonmars.org))
+**Instructor**: Jason Mars ([profmars@umich.edu](mailto:profmars@umich.edu) / [https://www.linkedin.com/in/drjasonmars/](https://www.linkedin.com/in/drjasonmars/))
 
 **GSI**: Jayanaka Dantanarayana (jayanaka@umich.edu)
 
@@ -39,7 +39,7 @@ This course is structured as a hands-on, project-based experience centered on bu
 * Teams will have full ownership of their project, including product vision, technical design, and execution decisions.   
 * All projects will be publicly launched toward the end of the semester. 
 
-# Schedule by Week *(subject to slight changes)*
+# Schedule by Week *(subject to changes)*
 
 Dates below are the Monday starting each week of Fall 2026. University dates follow the [University of Michigan Ann Arbor academic calendar for 2026–2027](https://ro.umich.edu/sites/default/files/calendar/pdfs/Cal_2026-2027.pdf).
 
