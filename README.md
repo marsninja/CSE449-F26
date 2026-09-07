@@ -41,33 +41,37 @@ This course is structured as a hands-on, project-based experience centered on bu
 * Teams will have full ownership of their project, including product vision, technical design, and execution decisions.   
 * All projects will be publicly launched toward the end of the semester. Each team will design and execute a digital marketing campaign for their product.
 
-# Schedule by Week \*(subject to slight changes) 
+# Schedule by Week *(subject to slight changes)*
 
-| Week 1 (1/6) | Course Introduction, Natural Language Processing Syllabus and Logistics Introduction |
+Dates below are the Monday starting each week of Fall 2026. University dates follow the [University of Michigan Ann Arbor academic calendar for 2026–2027](https://ro.umich.edu/sites/default/files/calendar/pdfs/Cal_2026-2027.pdf).
+
+Classes begin August 31 and end December 11. There are no classes on September 7 (Labor Day), October 19–20 (Fall Study Break), or November 25–27 (Thanksgiving recess). Study days are December 12–13; the university examination period is December 14–18 and December 21. Any course-specific exam arrangements will be announced separately.
+
+| Week (starting Monday) | Topics and deadlines |
 | :---- | :---- |
-| **Week 2 (1/12)** | NLP and AI Overview Survey of NLP Landscape and Problems Traditional vs ML based NLP Survey of NLP Landscape and Problems |
-| **Week 3 (1/19)** **\***(Holiday 19th, MLK day) | NLP and DNNs Survey of NLP Landscape and Problems Traditional vs ML based NLP Group formation due: Friday |
-| **Week 4 (1/26)** | Deep Learning Representations for NLP Deep learning applied to NLP Understanding Papers and Metrics |
-| **Week 5 (2/2)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri  |
-| **Week 6 (2/9)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
-| **Week 7 (2/16)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri  |
-| **Week 8 (2/23)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
-| ***Spring Break*** | *No Classes (Vacation Feb 28 – Mar 8)* |
-| **Week 9 (3/9)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri  |
-| **Week 10 (3/16)** | MVP PITCH WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
-| **Week 11 (3/23)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri  |
-| **Week 12 (3/30)** | LAUNCH WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
-| **Week 13 (4/6)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri  |
-| **Week 14 (4/13)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
-| **Week 15 (4/20)** | REFLECTION WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri (Last week, classes end Apr 21) |
+| **Week 1 (8/31)** | Course Introduction, Natural Language Processing Syllabus and Logistics Introduction |
+| **Week 2 (9/7)** | NLP and AI Overview Survey of NLP Landscape and Problems Traditional vs ML based NLP Survey of NLP Landscape and Problems; **Labor Day September 7: no Monday class; Wednesday class meets.** |
+| **Week 3 (9/14)** | NLP and DNNs Survey of NLP Landscape and Problems Traditional vs ML based NLP **Group formation due: Friday, September 18.** |
+| **Week 4 (9/21)** | Deep Learning Representations for NLP Deep learning applied to NLP Understanding Papers and Metrics |
+| **Week 5 (9/28)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
+| **Week 6 (10/5)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri; **Extra Credit 1 due Monday, October 5.** |
+| **Week 7 (10/12)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
+| **Week 8 (10/19)** | **Fall Study Break October 19–20: no Monday class.** Wednesday: 5-Min Group Updates (all groups), Snippets Due Fri |
+| **Week 9 (10/26)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
+| **Week 10 (11/2)** | MVP PITCH WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
+| **Week 11 (11/9)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
+| **Week 12 (11/16)** | LAUNCH WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
+| **Week 13 (11/23)** | Monday: 5-Min Group Updates (all groups). **Thanksgiving recess November 25–27: no Wednesday class; no snippets due this week.** |
+| **Week 14 (11/30)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
+| **Week 15 (12/7)** | REFLECTION WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri (Last MW class December 9; university classes end December 11) |
 
 # Notes
 
-* **MVP Pitch Week (Week 10)** — This is where launch grants are awarded, ranging from hundreds to thousands of dollars based on the quality and potential of your product. Come prepared to impress. This funding is thanks due to the NSF POSE program. 
+* **MVP Pitch Week (Week 10, November 2–6)** — This is where launch grants are awarded, ranging from hundreds to thousands of dollars based on the quality and potential of your product. Come prepared to impress. This funding is thanks due to the NSF POSE program.
 
-* **Launch Week (Week 12)** — Go live. This is when you push the button on your digital marketing campaign and release your product to real users.
+* **Launch Week (Week 12, November 16–20)** — Go live. This is when you push the button on your digital marketing campaign and release your product to real users.
 
-* **Reflection Week (Week 15)** — A recap of the semester: what you built, what worked, what you learned, and what you'd do differently.
+* **Reflection Week (Week 15, December 7–11)** — A recap of the semester: what you built, what worked, what you learned, and what you'd do differently.
 
 * **Weekly Updates** — Each group update should be 3–5 slides covering your progress, blockers, and next steps.
 
