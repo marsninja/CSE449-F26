@@ -42,6 +42,14 @@ These are ideas, not a required feature checklist. The goal is a coherent, usefu
 
 ## Getting Started and Learning Resources
 
+### Recommended IDE Setup
+
+We recommend **Visual Studio Code (VS Code)** or a **VS Code-compatible IDE** with the **Jac extension installed**. Install the Jac extension through your editor's extension marketplace before you start working on the project.
+
+For the **Neovim enjoyers**, there is also a **Jac plugin for Neovim** if you prefer to build in your terminal editor.
+
+If you have a particular development environment you love, let us know! We're happy to help support your preferred setup.
+
 ### Explore the Complete Example
 
 Get the full source for the `jaclang_org` example workspace locally by running:
