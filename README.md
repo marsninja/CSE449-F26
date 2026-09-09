@@ -52,7 +52,7 @@ Classes begin August 31 and end December 11. There are no classes on September 7
 | **Week 3 (9/14)** | NLP and DNNs Survey of NLP Landscape and Problems Traditional vs ML based NLP **Group formation due: Friday, September 18.** |
 | **Week 4 (9/21)** | Deep Learning Representations for NLP Deep learning applied to NLP Understanding Papers and Metrics |
 | **Week 5 (9/28)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
-| **Week 6 (10/5)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri; **Extra Credit 1 due Monday, October 5.** |
+| **Week 6 (10/5)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri; **[Assignment 1: Personal Planning App in Jac](extra-credit-1.md) due Monday, October 5.** |
 | **Week 7 (10/12)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
 | **Week 8 (10/19)** | **Fall Study Break October 19–20: no Monday class.** Wednesday: 5-Min Group Updates (all groups), Snippets Due Fri |
 | **Week 9 (10/26)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
@@ -104,11 +104,12 @@ This is a very ‘do based’ course as opposed to ‘study based’. A signific
 
 - 10 Weekly individual reflection submissions: 2.5% each  
   * All, half, or nothing based clarity, technical substance, honesty, and demonstrated engagement
-- In-class participation through random pop-up activities: 5%
+- In-class participation through random pop-up activities: 4%
+- [Assignment 1: Personal Planning App in Jac](extra-credit-1.md): 1% participation grade. Individual project with a server, web frontend, mobile app, and CLI. Submit the GitHub repository link via Canvas; include a README with setup and run instructions.
 
 **Additional Extra Credit Opportunity**: Up to 20% Extra Credit
 
-- [Extra Credit 1: Jac Tutorial + Custom Feature](extra-credit-1.md) (up to 3%)
+- [Assignment 1: Personal Planning App in Jac](extra-credit-1.md): up to an additional 3% extra credit based on how impressive the project is.
 
 
 
