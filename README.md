@@ -39,6 +39,14 @@ This course is structured as a hands-on, project-based experience centered on bu
 * Teams will have full ownership of their project, including product vision, technical design, and execution decisions.   
 * All projects will be publicly launched toward the end of the semester. 
 
+## Team Formation and Development Workflow
+
+Form teams of **4–5 students by Friday, September 18**. Teams will organize their development work using [Flowline](https://github.com/kashmithnisakya/flowline), an open-source tool for experimenting with development as an assembly line of stages. In this course, we will explore this approach as a way to enhance or replace Agile practices in the age of AI-assisted development.
+
+As your team gets started, agree on your development flow and how members will contribute across its stages. You may use a default Flowline template or tweak and customize the stages and transitions to fit your project. **Every issue and pull request should be tracked through your team's flow of stages**, with its current stage, ownership, and handoffs clear. Keep the board current as work progresses so it reflects what the team is actually doing.
+
+**Every team is expected to make progress each week, and every individual is expected to contribute something.** Contributions can include design, implementation, testing, reviews, user research, or launch work. Make those contributions visible in your development workflow and weekly reflections.
+
 # Schedule by Week *(subject to changes)*
 
 Dates below are the Monday starting each week of Fall 2026. University dates follow the [University of Michigan Ann Arbor academic calendar for 2026–2027](https://ro.umich.edu/sites/default/files/calendar/pdfs/Cal_2026-2027.pdf).
@@ -71,7 +79,9 @@ Classes begin August 31 and end December 11. There are no classes on September 7
 
 * **Reflection Week (Week 15, December 7–11)** — A recap of the semester: what you built, what worked, what you learned, and what you'd do differently.
 
-* **Weekly Updates** — Each group update should be 3–5 slides covering your progress, blockers, and next steps.
+* **Weekly Group Updates** — Each 5-minute report-out should include 3–5 slides and a **work-in-progress demo**. Frame the update around your team's Flowline stages: show what moved forward that week, what is in progress at each stage, where work is blocked or awaiting a handoff, and what comes next. Use issues and pull requests to make the progress concrete. Include a demo in every group update, even while features are still being built.
+
+* **Individual Weekly Snippets** — Snippets are **individual submissions** due on the Fridays indicated in the schedule. Each student should describe their own development experiences that week: what they contributed, what they tried and learned, challenges they encountered, and their next steps. Reference relevant issues, pull requests, or other work so your contribution is clear. Each snippet should reflect the student's own experience and perspective.
 
 # Tips for the Journey
 
@@ -83,7 +93,7 @@ Classes begin August 31 and end December 11. There are no classes on September 7
 
 * **Build early, build often** — Don't wait until the design is perfect. Get code running as soon as possible. A working prototype with rough edges teaches you more than a polished spec that hasn't been tested. You'll discover the real problems (and the real opportunities) only once something is running.
 
-* **Ship something every week** — Aim to have a working version at all times, no matter how rough. Treat every Monday update as a mini-launch. This forces incremental progress, keeps your team accountable, and means you're never more than a week away from a demo-ready state. The teams that ship weekly are the ones that launch successfully.
+* **Ship something every week** — Aim to have a working version at all times, no matter how rough. Treat every scheduled group update as a mini-launch. This forces incremental progress, keeps your team accountable, and means you're never more than a week away from a demo-ready state. The teams that ship weekly are the ones that launch successfully.
 
 
 # Grading
@@ -102,8 +112,8 @@ This is a very ‘do based’ course as opposed to ‘study based’. A signific
 
 **Individual Components (30%)** 
 
-- 10 Weekly individual reflection submissions: 2.5% each  
-  * All, half, or nothing based clarity, technical substance, honesty, and demonstrated engagement
+- 10 weekly individual reflection submissions (snippets): 2.5% each
+  * All, half, or nothing based on clarity, technical substance, honesty, and demonstrated engagement through each student's contributions and development experiences that week
 - In-class participation through random pop-up activities: 4%
 - [Assignment 1: Personal Planning App in Jac](extra-credit-1.md): 1% participation grade. Individual project with a server, web frontend, mobile app, and CLI. Submit the GitHub repository link via Canvas; include a README with setup and run instructions.
 
