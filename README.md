@@ -64,7 +64,7 @@ Classes begin August 31 and end December 11. There are no classes on September 7
 | **Week 7 (10/12)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
 | **Week 8 (10/19)** | **Fall Study Break October 19–20: no Monday class.** Wednesday: 5-Min Group Updates (all groups), Snippets Due Fri |
 | **Week 9 (10/26)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
-| **Week 10 (11/2)** | MVP PITCH WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
+| **Week 10 (11/2)** | [MVP PITCH WEEK](mvp-pitch.md), 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
 | **Week 11 (11/9)** | Mini lecture, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
 | **Week 12 (11/16)** | LAUNCH WEEK, 5-Min Group Update M(1-8) W(9-16), Snippets Due Fri |
 | **Week 13 (11/23)** | Monday: 5-Min Group Updates (all groups). **Thanksgiving recess November 25–27: no Wednesday class; no snippets due this week.** |
@@ -73,7 +73,7 @@ Classes begin August 31 and end December 11. There are no classes on September 7
 
 # Notes
 
-* **MVP Pitch Week (Week 10, November 2–6)** — Come prepared with a launch-ready MVP that the rest of the class can use. Be ready to demo your product, let your classmates try it, and gather feedback before Launch Week.
+* **MVP Pitch Week (Week 10, November 2–6)** — Come prepared with a launch-ready MVP that the rest of the class can use. Be ready to demo your product, let your classmates try it, and gather feedback before Launch Week. See [MVP Pitch: Tips and Format](mvp-pitch.md) for how to structure your ~8-minute pitch.
 
 * **Launch Week (Week 12, November 16–20)** — Go live. This is when you push the button on your digital marketing campaign and release your product to real users.
 
